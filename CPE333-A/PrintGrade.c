@@ -33,5 +33,5 @@ void main()
 
       scanf("%d", &SearchID);
   }
-  printf("Bye User A from User B na\n"); 
+  printf("Bye My Team\n"); 
 }
