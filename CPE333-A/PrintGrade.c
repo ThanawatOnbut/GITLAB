@@ -33,5 +33,5 @@ void main()
 
       scanf("%d", &SearchID);
   }
-  printf("Bye From Us\n"); 
+  printf("Bye From Eye\n"); 
 }
