@@ -33,5 +33,5 @@ void main()
 
       scanf("%d", &SearchID);
   }
-  printf("Bye My Team\n"); 
+  printf("Bye From Us\n"); 
 }
